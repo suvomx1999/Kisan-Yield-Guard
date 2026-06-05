@@ -1,0 +1,55 @@
+name: Kisan Yield Guard — Auto Retrain
+
+on:
+  schedule:
+    - cron: '0 2 1 */3 *'   # runs at 2AM on the 1st of every 3rd month (quarterly IMD cycle)
+  workflow_dispatch:          # manual trigger for testing
+  push:
+    paths:
+      - 'data/reference/drift_batch.csv'   # triggers if new drift batch is pushed
+
+jobs:
+  check-drift-and-retrain:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate / refresh data
+        run: python src/generate_data.py
+
+      - name: Preprocess
+        run: python src/preprocess.py
+
+      - name: Check for drift
+        id: drift
+        run: |
+          python src/drift_check.py && echo "drift=false" >> $GITHUB_OUTPUT || echo "drift=true" >> $GITHUB_OUTPUT
+
+      - name: Retrain model (only if drift detected)
+        if: steps.drift.outputs.drift == 'true'
+        run: |
+          echo "⚠️ Drift detected — retraining model..."
+          python src/train.py
+          python src/evaluate.py
+
+      - name: Upload drift report
+        uses: actions/upload-artifact@v4
+        with:
+          name: drift-report
+          path: reports/drift_report.html
+
+      - name: Summary
+        run: |
+          echo "### Kisan Yield Guard Pipeline Run" >> $GITHUB_STEP_SUMMARY
+          echo "- Drift detected: ${{ steps.drift.outputs.drift }}" >> $GITHUB_STEP_SUMMARY
+          echo "- Reports saved as artifacts" >> $GITHUB_STEP_SUMMARY

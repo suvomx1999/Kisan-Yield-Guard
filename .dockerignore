@@ -1,0 +1,13 @@
+mlruns/
+__pycache__/
+*.pyc
+.env
+.git/
+.github/
+reports/
+data/raw/
+data/processed/
+data/reference/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/

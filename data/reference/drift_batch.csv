@@ -1,0 +1,201 @@
+district,state,crop,year,season,rainfall_mm,temperature_avg_c,soil_type,irrigation_pct,fertilizer_kg_per_ha,msp_inr_per_quintal,yield_kg_per_ha
+Hisar,Haryana,Sugarcane,2018,Kharif,579.8,26.3,Desert,72.5,88.5,2750,40000.0
+Kolhapur,Maharashtra,Sugarcane,2012,Kharif,994.6,32.4,Black,49.6,149.1,1700,44556.7
+Raipur,Chhattisgarh,Wheat,2023,Rabi,1094.4,29.2,Laterite,37.0,140.4,2125,1800.0
+Karnal,Haryana,Rice,2012,Kharif,255.1,26.5,Alluvial,92.4,124.6,1250,1909.9
+Gorakhpur,Uttar Pradesh,Rice,2015,Kharif,580.9,27.0,Alluvial,44.7,259.4,1410,1936.1
+Nashik,Maharashtra,Wheat,2019,Rabi,681.8,30.4,Red,28.1,52.1,1840,1800.0
+Raipur,Chhattisgarh,Rice,2022,Kharif,897.7,28.2,Laterite,49.5,264.1,2040,1729.5
+Karnal,Haryana,Sugarcane,2019,Kharif,226.4,24.8,Desert,93.7,230.4,2750,40000.0
+Hisar,Haryana,Wheat,2012,Rabi,522.8,27.9,Alluvial,68.9,144.5,1285,1866.2
+Muzaffarpur,Bihar,Sugarcane,2014,Zaid,813.4,29.9,Alluvial,42.0,249.6,1900,42028.5
+Krishna,Andhra Pradesh,Sugarcane,2012,Kharif,859.2,30.8,Red,52.9,265.8,1700,40000.0
+Hooghly,West Bengal,Sugarcane,2020,Kharif,1139.1,31.4,Laterite,51.2,274.5,2850,40000.0
+Jodhpur,Rajasthan,Rice,2016,Kharif,369.3,28.3,Desert,23.2,138.6,1470,1500.0
+Indore,Madhya Pradesh,Wheat,2017,Rabi,1098.2,32.9,Alluvial,42.1,140.8,1625,1800.0
+Kolhapur,Maharashtra,Wheat,2012,Rabi,1219.6,30.6,Black,49.0,202.4,1285,1800.0
+Warangal,Telangana,Wheat,2018,Rabi,879.4,31.6,Black,45.1,179.9,1735,1800.0
+Meerut,Uttar Pradesh,Sugarcane,2016,Zaid,502.6,26.0,Alluvial,71.8,128.7,2300,40000.0
+Warangal,Telangana,Wheat,2022,Rabi,826.3,29.5,Red,40.4,282.1,2015,1800.0
+Cuttack,Odisha,Wheat,2010,Rabi,1054.2,30.5,Laterite,49.7,143.8,1100,1800.0
+Indore,Madhya Pradesh,Rice,2019,Kharif,719.4,30.3,Alluvial,53.7,159.8,1815,1739.4
+Lucknow,Uttar Pradesh,Wheat,2020,Rabi,699.1,28.1,Alluvial,69.1,228.7,1925,1867.7
+Hooghly,West Bengal,Sugarcane,2012,Kharif,1240.4,30.2,Alluvial,51.2,107.9,1700,50705.0
+Warangal,Telangana,Rice,2011,Kharif,873.6,30.5,Black,54.0,77.7,1080,1577.4
+Patiala,Punjab,Sugarcane,2019,Zaid,268.6,27.2,Alluvial,83.7,198.4,2750,40000.0
+Jabalpur,Madhya Pradesh,Sugarcane,2020,Zaid,596.8,29.7,Alluvial,33.6,274.2,2850,40000.0
+Lucknow,Uttar Pradesh,Wheat,2012,Rabi,860.7,26.2,Alluvial,69.3,134.4,1285,1800.0
+Ahmedabad,Gujarat,Wheat,2021,Rabi,737.3,29.5,Alluvial,66.1,171.0,1975,1800.0
+Hisar,Haryana,Rice,2018,Kharif,311.8,27.8,Desert,52.2,238.8,1750,1500.0
+Gorakhpur,Uttar Pradesh,Wheat,2015,Rabi,541.3,23.4,Alluvial,63.7,88.3,1450,2326.7
+Amritsar,Punjab,Wheat,2012,Rabi,489.1,25.7,Alluvial,89.9,291.0,1285,2241.6
+Jaipur,Rajasthan,Sugarcane,2017,Kharif,293.8,31.5,Alluvial,34.7,51.3,2550,40000.0
+Nashik,Maharashtra,Rice,2010,Kharif,727.2,28.2,Red,46.1,124.5,1000,1657.0
+Indore,Madhya Pradesh,Rice,2019,Kharif,932.8,32.0,Black,58.7,258.2,1815,1672.3
+Nagaon,Assam,Wheat,2010,Rabi,2278.0,27.6,Laterite,43.1,171.7,1100,1800.0
+Jodhpur,Rajasthan,Rice,2020,Kharif,186.1,30.9,Alluvial,39.3,108.2,1868,1500.0
+Jabalpur,Madhya Pradesh,Wheat,2017,Rabi,607.2,31.0,Black,45.7,82.5,1625,1800.0
+Ahmedabad,Gujarat,Sugarcane,2014,Kharif,704.2,27.7,Desert,57.2,157.4,1900,40000.0
+Warangal,Telangana,Sugarcane,2017,Kharif,758.0,33.1,Red,60.8,126.9,2550,40000.0
+Hisar,Haryana,Rice,2022,Kharif,278.4,28.8,Desert,60.2,155.7,2040,1500.0
+Gorakhpur,Uttar Pradesh,Wheat,2021,Rabi,628.8,26.5,Alluvial,44.2,211.7,1975,1953.0
+Lucknow,Uttar Pradesh,Rice,2014,Kharif,580.6,31.1,Alluvial,56.7,245.9,1360,1571.3
+Gorakhpur,Uttar Pradesh,Sugarcane,2018,Kharif,601.9,27.1,Alluvial,44.1,253.6,2750,40000.0
+Jabalpur,Madhya Pradesh,Sugarcane,2013,Kharif,700.7,32.7,Alluvial,49.7,193.6,1800,40000.0
+Jabalpur,Madhya Pradesh,Rice,2015,Kharif,747.4,29.0,Alluvial,41.5,294.7,1410,1832.9
+Amritsar,Punjab,Sugarcane,2020,Zaid,444.7,27.4,Alluvial,94.1,225.6,2850,40000.0
+Ahmedabad,Gujarat,Wheat,2022,Rabi,500.6,28.0,Black,45.8,187.2,2015,1800.0
+Meerut,Uttar Pradesh,Rice,2020,Kharif,746.1,30.7,Alluvial,78.9,75.0,1868,1785.3
+Ludhiana,Punjab,Sugarcane,2014,Kharif,500.1,28.0,Alluvial,90.1,242.7,1900,40000.0
+Ahmedabad,Gujarat,Rice,2016,Kharif,681.3,28.0,Desert,47.9,241.2,1470,1500.0
+Cuttack,Odisha,Sugarcane,2012,Zaid,811.0,30.2,Red,44.9,179.4,1700,40000.0
+Pune,Maharashtra,Wheat,2020,Rabi,786.2,28.3,Red,54.5,202.0,1925,1800.0
+Ahmedabad,Gujarat,Rice,2016,Kharif,483.0,28.7,Desert,52.9,176.8,1470,1500.0
+Muzaffarpur,Bihar,Sugarcane,2010,Kharif,590.5,33.7,Alluvial,42.8,80.1,1450,40000.0
+Mysore,Karnataka,Wheat,2014,Rabi,851.9,32.6,Black,43.5,136.3,1400,1800.0
+Cuttack,Odisha,Wheat,2015,Rabi,683.1,29.8,Alluvial,44.9,187.4,1450,1800.0
+Bardhaman,West Bengal,Sugarcane,2011,Kharif,1292.9,28.7,Laterite,61.7,259.6,1450,44558.9
+Patna,Bihar,Rice,2020,Kharif,884.6,27.9,Alluvial,49.7,270.4,1868,2224.0
+Hisar,Haryana,Rice,2017,Kharif,385.0,25.8,Desert,60.3,58.3,1550,1500.0
+Coimbatore,Tamil Nadu,Sugarcane,2019,Zaid,1134.4,30.5,Laterite,74.8,82.1,2750,40000.0
+Hooghly,West Bengal,Wheat,2023,Rabi,1212.9,26.1,Alluvial,43.0,73.1,2125,1800.0
+Nashik,Maharashtra,Wheat,2012,Rabi,903.8,25.8,Black,32.9,128.3,1285,1800.0
+Jaipur,Rajasthan,Rice,2022,Kharif,348.2,32.1,Desert,49.8,187.2,2040,1500.0
+Kolhapur,Maharashtra,Rice,2022,Kharif,1110.1,30.5,Red,50.2,271.1,2040,1673.4
+Ludhiana,Punjab,Sugarcane,2023,Kharif,326.8,26.2,Alluvial,83.1,192.0,3150,40000.0
+Indore,Madhya Pradesh,Sugarcane,2017,Zaid,707.9,26.2,Black,41.9,251.6,2550,40000.0
+Coimbatore,Tamil Nadu,Wheat,2023,Rabi,725.8,30.4,Laterite,61.0,69.6,2125,1800.0
+Gorakhpur,Uttar Pradesh,Rice,2023,Kharif,462.8,25.4,Alluvial,47.6,293.8,2183,1710.4
+Bardhaman,West Bengal,Rice,2021,Kharif,1298.8,29.3,Laterite,45.2,118.5,1940,1642.2
+Gorakhpur,Uttar Pradesh,Wheat,2016,Rabi,843.8,26.4,Alluvial,46.7,184.9,1525,1800.0
+Mysore,Karnataka,Wheat,2015,Rabi,1110.6,31.3,Black,37.8,117.8,1450,1800.0
+Patna,Bihar,Wheat,2011,Rabi,909.3,29.4,Alluvial,57.4,107.6,1120,1800.0
+Warangal,Telangana,Wheat,2015,Rabi,561.0,30.2,Black,49.2,64.5,1450,1800.0
+Amritsar,Punjab,Wheat,2012,Rabi,370.6,26.5,Alluvial,87.3,263.9,1285,1998.3
+Nashik,Maharashtra,Sugarcane,2015,Zaid,932.3,30.1,Black,54.5,117.2,2100,48759.3
+Ludhiana,Punjab,Wheat,2017,Rabi,599.9,23.1,Alluvial,96.5,140.6,1625,3012.7
+Jabalpur,Madhya Pradesh,Sugarcane,2019,Kharif,1120.5,30.2,Black,38.1,177.9,2750,50547.9
+Thanjavur,Tamil Nadu,Rice,2012,Kharif,631.3,30.4,Red,74.4,208.6,1250,1526.0
+Patna,Bihar,Wheat,2010,Rabi,847.6,29.9,Alluvial,50.7,217.9,1100,1800.0
+Coimbatore,Tamil Nadu,Sugarcane,2021,Zaid,507.2,31.7,Laterite,63.5,260.0,2900,40000.0
+Jodhpur,Rajasthan,Rice,2016,Kharif,37.5,28.5,Desert,32.6,283.8,1470,1500.0
+Hooghly,West Bengal,Sugarcane,2012,Zaid,1552.3,29.4,Laterite,35.0,89.7,1700,40000.0
+Thanjavur,Tamil Nadu,Sugarcane,2018,Kharif,707.9,30.9,Red,81.0,72.3,2750,40000.0
+Guntur,Andhra Pradesh,Rice,2012,Kharif,845.9,28.8,Red,62.9,264.0,1250,1899.0
+Meerut,Uttar Pradesh,Rice,2023,Kharif,661.2,29.0,Alluvial,86.9,207.2,2183,2011.9
+Indore,Madhya Pradesh,Wheat,2019,Rabi,1087.0,31.4,Alluvial,55.1,119.7,1840,1800.0
+Muzaffarpur,Bihar,Rice,2016,Kharif,562.4,29.4,Alluvial,52.1,72.0,1470,1650.0
+Jodhpur,Rajasthan,Wheat,2013,Rabi,458.0,25.2,Desert,31.6,168.7,1350,1800.0
+Amritsar,Punjab,Sugarcane,2022,Zaid,380.2,26.1,Alluvial,97.3,224.2,3050,40000.0
+Hooghly,West Bengal,Sugarcane,2016,Zaid,1416.3,26.8,Laterite,60.0,87.6,2300,40000.0
+Gorakhpur,Uttar Pradesh,Sugarcane,2016,Zaid,881.4,30.0,Alluvial,52.8,126.3,2300,41050.4
+Lucknow,Uttar Pradesh,Rice,2023,Kharif,352.0,30.2,Alluvial,58.3,266.3,2183,1500.0
+Lucknow,Uttar Pradesh,Wheat,2015,Rabi,541.7,29.9,Alluvial,62.0,290.8,1450,1800.0
+Amritsar,Punjab,Sugarcane,2010,Zaid,151.4,31.0,Alluvial,93.3,72.7,1450,40000.0
+Gorakhpur,Uttar Pradesh,Sugarcane,2018,Zaid,650.6,26.5,Alluvial,50.2,66.5,2750,40000.0
+Cuttack,Odisha,Wheat,2022,Rabi,1283.8,30.2,Laterite,51.5,253.7,2015,1800.0
+Nashik,Maharashtra,Sugarcane,2013,Kharif,1036.5,32.9,Red,48.5,245.1,1800,40000.0
+Jabalpur,Madhya Pradesh,Wheat,2020,Rabi,824.0,30.5,Black,46.6,254.3,1925,1800.0
+Amritsar,Punjab,Wheat,2014,Rabi,309.2,24.5,Alluvial,92.5,135.4,1400,2001.7
+Thanjavur,Tamil Nadu,Rice,2013,Kharif,1147.9,30.4,Laterite,74.5,192.4,1310,1996.5
+Jodhpur,Rajasthan,Sugarcane,2023,Kharif,395.6,26.1,Desert,35.5,265.2,3150,40000.0
+Jaipur,Rajasthan,Rice,2021,Kharif,378.4,32.9,Desert,50.6,180.1,1940,1500.0
+Indore,Madhya Pradesh,Wheat,2022,Rabi,717.7,29.6,Black,50.8,264.5,2015,1800.0
+Ludhiana,Punjab,Sugarcane,2023,Zaid,187.6,29.7,Alluvial,90.0,198.2,3150,40000.0
+Jodhpur,Rajasthan,Wheat,2012,Rabi,239.8,32.6,Desert,16.1,135.4,1285,1800.0
+Patna,Bihar,Rice,2018,Kharif,825.1,29.0,Alluvial,46.2,119.0,1750,1993.1
+Gorakhpur,Uttar Pradesh,Wheat,2018,Rabi,758.8,29.7,Alluvial,42.0,71.2,1735,1800.0
+Patiala,Punjab,Sugarcane,2010,Kharif,363.2,26.2,Alluvial,77.5,189.7,1450,40000.0
+Jabalpur,Madhya Pradesh,Rice,2012,Kharif,660.6,28.3,Alluvial,27.1,229.1,1250,1726.2
+Nashik,Maharashtra,Sugarcane,2016,Zaid,893.2,25.5,Red,51.5,255.9,2300,40000.0
+Thanjavur,Tamil Nadu,Wheat,2020,Rabi,741.1,31.8,Alluvial,61.4,163.8,1925,1800.0
+Ahmedabad,Gujarat,Wheat,2014,Rabi,1087.1,28.4,Desert,55.0,72.9,1400,1800.0
+Bardhaman,West Bengal,Wheat,2020,Rabi,1158.8,30.5,Laterite,56.5,171.0,1925,1800.0
+Cuttack,Odisha,Sugarcane,2019,Kharif,1402.9,27.5,Alluvial,35.1,91.7,2750,45779.2
+Patiala,Punjab,Wheat,2017,Rabi,489.4,30.5,Alluvial,82.4,285.0,1625,1800.0
+Gorakhpur,Uttar Pradesh,Wheat,2020,Rabi,576.6,26.5,Alluvial,62.7,167.0,1925,2098.0
+Lucknow,Uttar Pradesh,Wheat,2013,Rabi,532.2,27.4,Alluvial,65.3,250.6,1350,1826.9
+Karnal,Haryana,Rice,2023,Kharif,322.6,27.8,Desert,88.4,190.2,2183,1500.0
+Nagaon,Assam,Sugarcane,2016,Kharif,1590.7,24.5,Alluvial,43.9,165.1,2300,40000.0
+Amritsar,Punjab,Sugarcane,2016,Kharif,480.6,22.5,Alluvial,90.3,188.0,2300,40000.0
+Ahmedabad,Gujarat,Sugarcane,2012,Zaid,378.1,30.6,Alluvial,45.4,79.0,1700,40000.0
+Warangal,Telangana,Sugarcane,2012,Kharif,583.3,29.9,Black,58.9,204.9,1700,44476.0
+Pune,Maharashtra,Wheat,2016,Rabi,715.3,28.7,Black,36.2,267.7,1525,1800.0
+Hisar,Haryana,Rice,2023,Kharif,445.5,24.6,Desert,61.9,221.9,2183,1500.0
+Krishna,Andhra Pradesh,Wheat,2015,Rabi,963.4,28.2,Alluvial,71.3,297.5,1450,1800.0
+Thanjavur,Tamil Nadu,Sugarcane,2019,Kharif,1032.4,31.2,Alluvial,60.5,70.5,2750,41076.9
+Mysore,Karnataka,Wheat,2022,Rabi,936.6,29.8,Black,40.9,113.7,2015,1800.0
+Ahmedabad,Gujarat,Rice,2020,Kharif,394.4,32.1,Black,63.3,224.3,1868,1500.0
+Bardhaman,West Bengal,Wheat,2018,Rabi,1528.4,27.0,Laterite,43.5,118.6,1735,1800.0
+Thanjavur,Tamil Nadu,Sugarcane,2013,Kharif,834.3,29.7,Alluvial,62.7,68.8,1800,40005.3
+Jodhpur,Rajasthan,Rice,2015,Kharif,367.3,27.5,Alluvial,26.2,196.5,1410,1513.7
+Mysore,Karnataka,Sugarcane,2012,Zaid,716.4,30.9,Red,34.8,117.1,1700,40000.0
+Coimbatore,Tamil Nadu,Sugarcane,2022,Zaid,912.4,29.6,Red,64.9,134.8,3050,40000.0
+Ahmedabad,Gujarat,Rice,2014,Kharif,331.0,27.4,Black,65.7,181.2,1360,1644.3
+Karnal,Haryana,Wheat,2015,Rabi,408.2,25.5,Alluvial,94.5,154.4,1450,1972.1
+Bardhaman,West Bengal,Wheat,2016,Rabi,1719.7,28.5,Alluvial,58.6,66.2,1525,1800.0
+Guntur,Andhra Pradesh,Rice,2010,Kharif,645.8,31.2,Alluvial,69.7,238.3,1000,1823.5
+Hooghly,West Bengal,Wheat,2019,Rabi,932.6,30.0,Laterite,50.5,165.9,1840,1800.0
+Jodhpur,Rajasthan,Rice,2011,Kharif,412.6,30.5,Desert,23.5,137.3,1080,1500.0
+Jaipur,Rajasthan,Rice,2013,Kharif,329.0,29.8,Alluvial,36.2,224.1,1310,1513.0
+Krishna,Andhra Pradesh,Sugarcane,2014,Zaid,1044.9,30.9,Red,50.4,81.6,1900,40000.0
+Jabalpur,Madhya Pradesh,Rice,2015,Kharif,849.5,26.1,Black,34.8,257.3,1410,1933.0
+Hooghly,West Bengal,Wheat,2015,Rabi,1576.4,30.1,Laterite,43.3,195.1,1450,1800.0
+Jodhpur,Rajasthan,Rice,2013,Kharif,339.7,28.3,Desert,17.9,220.5,1310,1500.0
+Cuttack,Odisha,Wheat,2013,Rabi,1234.6,26.9,Laterite,55.4,159.8,1350,1800.0
+Nashik,Maharashtra,Wheat,2010,Rabi,746.8,26.4,Red,30.6,250.7,1100,1800.0
+Belgaum,Karnataka,Wheat,2020,Rabi,845.6,30.6,Black,38.9,188.1,1925,1800.0
+Bardhaman,West Bengal,Rice,2018,Kharif,1246.3,27.3,Laterite,46.4,215.0,1750,2017.2
+Krishna,Andhra Pradesh,Rice,2016,Kharif,588.0,29.7,Red,60.7,82.7,1470,1500.0
+Patna,Bihar,Rice,2011,Kharif,711.2,31.9,Alluvial,47.2,220.9,1080,1553.5
+Lucknow,Uttar Pradesh,Rice,2019,Kharif,704.6,28.6,Alluvial,69.9,213.5,1815,2094.2
+Meerut,Uttar Pradesh,Rice,2017,Kharif,798.4,25.6,Alluvial,76.2,180.0,1550,2430.6
+Thanjavur,Tamil Nadu,Rice,2012,Kharif,374.3,33.1,Alluvial,82.8,206.2,1250,1500.0
+Guntur,Andhra Pradesh,Sugarcane,2011,Kharif,784.7,31.9,Red,59.3,82.1,1450,40000.0
+Gorakhpur,Uttar Pradesh,Sugarcane,2018,Zaid,615.7,27.4,Alluvial,48.4,285.7,2750,40000.0
+Patna,Bihar,Sugarcane,2023,Kharif,757.3,30.0,Alluvial,51.6,50.2,3150,40000.0
+Indore,Madhya Pradesh,Wheat,2019,Rabi,614.8,31.4,Black,59.0,180.4,1840,1800.0
+Nagaon,Assam,Sugarcane,2021,Kharif,1492.6,27.5,Alluvial,40.2,92.6,2900,46420.3
+Patna,Bihar,Wheat,2018,Rabi,675.1,29.6,Alluvial,57.0,176.5,1735,1800.0
+Thanjavur,Tamil Nadu,Sugarcane,2013,Kharif,1170.7,28.6,Red,68.9,138.4,1800,40000.0
+Nagaon,Assam,Rice,2021,Kharif,1707.1,26.4,Laterite,35.9,250.5,1940,1660.8
+Nagaon,Assam,Wheat,2022,Rabi,1069.9,29.2,Laterite,39.1,66.4,2015,1800.0
+Mysore,Karnataka,Wheat,2020,Rabi,1111.6,28.9,Laterite,44.8,251.6,1925,1800.0
+Raipur,Chhattisgarh,Rice,2017,Kharif,1192.1,29.5,Laterite,47.7,176.8,1550,1723.4
+Kolhapur,Maharashtra,Rice,2014,Kharif,898.8,25.9,Red,30.6,211.4,1360,1820.7
+Pune,Maharashtra,Wheat,2010,Rabi,1001.6,31.2,Black,53.5,153.7,1100,1800.0
+Patiala,Punjab,Sugarcane,2020,Zaid,458.0,26.5,Alluvial,80.3,202.9,2850,40000.0
+Coimbatore,Tamil Nadu,Wheat,2011,Rabi,102.1,30.0,Red,55.6,228.0,1120,1800.0
+Nagaon,Assam,Rice,2022,Kharif,1732.1,26.2,Laterite,49.1,201.8,2040,1547.7
+Hisar,Haryana,Wheat,2019,Rabi,261.4,27.1,Alluvial,50.1,93.6,1840,1800.0
+Indore,Madhya Pradesh,Wheat,2021,Rabi,804.0,25.2,Black,59.0,87.2,1975,1800.0
+Muzaffarpur,Bihar,Wheat,2015,Rabi,451.6,29.8,Alluvial,55.7,117.9,1450,1800.0
+Kolhapur,Maharashtra,Rice,2020,Kharif,415.2,27.9,Red,52.4,107.5,1868,1500.0
+Warangal,Telangana,Wheat,2014,Rabi,748.2,30.7,Black,55.0,284.3,1400,1800.0
+Hooghly,West Bengal,Sugarcane,2013,Zaid,1077.4,30.1,Laterite,49.1,296.3,1800,40000.0
+Thanjavur,Tamil Nadu,Rice,2021,Kharif,671.1,30.7,Alluvial,75.1,251.7,1940,1773.8
+Gorakhpur,Uttar Pradesh,Rice,2010,Kharif,735.2,26.6,Alluvial,62.7,94.9,1000,2254.5
+Jaipur,Rajasthan,Wheat,2014,Rabi,168.1,30.4,Alluvial,32.0,186.1,1400,1800.0
+Hooghly,West Bengal,Sugarcane,2015,Zaid,1083.8,29.6,Laterite,36.4,182.8,2100,40000.0
+Ahmedabad,Gujarat,Rice,2012,Kharif,701.9,32.7,Black,63.4,120.3,1250,1500.0
+Jaipur,Rajasthan,Sugarcane,2022,Kharif,407.2,23.4,Desert,30.0,154.1,3050,40000.0
+Bardhaman,West Bengal,Sugarcane,2016,Kharif,1077.0,29.1,Laterite,51.5,73.0,2300,40000.0
+Bardhaman,West Bengal,Sugarcane,2013,Kharif,885.5,29.4,Laterite,52.1,114.2,1800,40000.0
+Coimbatore,Tamil Nadu,Rice,2010,Kharif,1084.7,31.1,Red,68.7,230.1,1000,1871.0
+Jaipur,Rajasthan,Wheat,2023,Rabi,232.6,34.9,Alluvial,38.7,162.6,2125,1800.0
+Ludhiana,Punjab,Sugarcane,2019,Kharif,322.8,28.5,Alluvial,86.5,97.7,2750,40000.0
+Ahmedabad,Gujarat,Sugarcane,2015,Kharif,575.9,28.7,Black,49.7,244.9,2100,40000.0
+Ahmedabad,Gujarat,Rice,2020,Kharif,237.4,34.2,Alluvial,66.0,86.0,1868,1500.0
+Ludhiana,Punjab,Wheat,2018,Rabi,269.0,24.5,Alluvial,81.0,266.2,1735,2112.0
+Hooghly,West Bengal,Rice,2021,Kharif,1195.5,30.1,Laterite,40.9,149.8,1940,1691.2
+Meerut,Uttar Pradesh,Sugarcane,2013,Zaid,872.6,28.4,Alluvial,79.0,210.9,1800,44466.8
+Pune,Maharashtra,Rice,2023,Kharif,801.0,28.3,Red,52.7,89.1,2183,1622.6
+Kolhapur,Maharashtra,Rice,2020,Kharif,799.2,29.5,Black,47.7,93.0,1868,1728.7
+Patna,Bihar,Rice,2015,Kharif,713.2,30.9,Alluvial,66.6,278.8,1410,1962.1
+Mysore,Karnataka,Wheat,2022,Rabi,918.6,28.1,Laterite,43.2,229.8,2015,1800.0
+Warangal,Telangana,Sugarcane,2022,Zaid,1195.0,30.1,Black,49.9,156.7,3050,49621.1
+Amritsar,Punjab,Wheat,2011,Rabi,384.9,26.2,Alluvial,89.2,209.1,1120,2016.8
+Lucknow,Uttar Pradesh,Sugarcane,2014,Zaid,548.8,28.0,Alluvial,60.5,220.8,1900,40000.0
+Nagaon,Assam,Wheat,2023,Rabi,1347.4,25.1,Alluvial,43.5,193.6,2125,1800.0
+Hisar,Haryana,Rice,2015,Kharif,392.1,28.1,Desert,73.7,91.6,1410,1500.0
+Ahmedabad,Gujarat,Rice,2012,Kharif,519.4,30.2,Alluvial,46.8,67.3,1250,1500.0

@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: kisan-yield-guard
+    env: python
+    buildCommand: pip install -r requirements.txt && python src/generate_data.py && python src/preprocess.py && python src/train.py && python src/evaluate.py
+    startCommand: uvicorn src.serve:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: MLFLOW_TRACKING_URI
+        value: mlruns
+      - key: PYTHON_VERSION
+        value: 3.11.0
