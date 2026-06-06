@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL support
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# MLflow
+mlruns/
+mlruns.db
+
+# Generated data files (keep directory structure via .gitkeep)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.joblib
+data/reference/*.csv
+data/reference/*.json
+
+# Reports/artifacts
+reports/*.html
+reports/*.png
+
+# Local environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
