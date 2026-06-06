@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1780703917445
+current_stage: Production
+description: null
+last_updated_timestamp: 1780703917447
+name: KisanYieldModel
+run_id: a10cc467c36549db8b55a724e52201d0
+run_link: null
+source: /Users/suvo/Downloads/Kisan Yield Guard/mlruns/161914972036347945/a10cc467c36549db8b55a724e52201d0/artifacts/model
+status: READY
+status_message: null
+storage_location: /Users/suvo/Downloads/Kisan Yield Guard/mlruns/161914972036347945/a10cc467c36549db8b55a724e52201d0/artifacts/model
+user_id: null
+version: 2
